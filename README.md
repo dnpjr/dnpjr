@@ -1,4 +1,4 @@
-# Daniel Pajer — Applied Modelling, Data & ML 
+# Daniel Pajer 
 
 Oxford PhD (DPhil in Mathematical Physics). I build **structured, reproducible modelling and data workflows in Python** — spanning
 ML pipelines, strategy research/backtesting, and interactive simulation demos.
@@ -15,6 +15,10 @@ I’m interested in roles across **quantitative modelling**, **data science / an
   Research module quantifies conditional outcomes for a weekly liquidity pattern; backtest module includes risk-based sizing and layered exits.  
   Repo: `monday_range`
 
+- **F1 Fantasy Optimizer**  
+  Optimisation engine for the official F1 Fantasy game: ingests historical race data → builds recency-weighted expected scores → solves optimal team selection under budget and roster constraints (MILP, PuLP).  
+  Repo: `f1_fantasy_optimizer`
+  
 - **Drone Radar Interception Simulation (HTML Canvas)**  
   Lightweight browser demo: real-time simulation loop, radar sweep detection, 1:1 target assignment, interception dynamics; deployable via GitHub Pages.  
   Repo: `drones`
